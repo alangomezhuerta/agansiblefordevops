@@ -1,3 +1,3 @@
 ###
-Ansible labs for the book ansible fir devops
+Ansible labs for the book ansible fior devops
 ###
